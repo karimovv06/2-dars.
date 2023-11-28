@@ -1,3 +1,15 @@
-print(5**4)
-print(22%4) # qoldig'i-2
-print(125*4)
+x = int(input(" x: "))
+y = int(input(" y: "))
+
+print("Sizning javobingiz", x ** y)
+
+
+a = int(input(" a: "))
+b = int(input(" b: "))
+
+print("Sizning javobingiz", a % b)
+
+x = int(input(" x: "))
+y = int(input(" y: "))
+
+print("Sizning javobingiz", x * y)
